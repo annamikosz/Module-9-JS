@@ -1,0 +1,14 @@
+
+.button {
+  color: white;
+  font-size: 40px;
+  border-radius: 5px;
+  background-color: black;
+  padding: 10px;
+}
+.welcome {
+  text-align: center;
+  margin-top: 50vh;
+  transform: translateY(-50%);
+  max-height: 100vh;
+}
