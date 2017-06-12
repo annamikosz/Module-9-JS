@@ -1,0 +1,17 @@
+
+ul {
+  text-align: center;
+  font-size: 30px;
+  list-style-type: none;
+  padding: 0;
+}
+button {
+  margin: 0 auto;
+  font-size: 30px;
+  display: block;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #000;
+  text-transform: uppercase;
+  padding: 10px;
+}
